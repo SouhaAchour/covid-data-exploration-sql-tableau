@@ -49,7 +49,7 @@ This dashboard presents:
 
 ###  Dashboard Preview
 
-![Dashboard](dashboard.png)
+![Dashboard](images/covid-dashboard-preview.png)
 
 ---
 
